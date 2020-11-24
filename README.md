@@ -14,3 +14,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 <tr><td colspan="2"><a href="#实体关系联合抽取">3. 实体关系联合抽取</a></td></tr>
 <tr><td colspan="2"><a href="#知识问答">4. 知识问答</a></td></tr>
 </table>
+
+## [实体识别](#content)
+### [远程监督](#content)
+Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning
