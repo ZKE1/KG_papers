@@ -17,4 +17,4 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 
 ## [实体识别](#content)
 ### [远程监督](#content)
-Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning
+Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018 [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
