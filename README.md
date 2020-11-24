@@ -24,6 +24,10 @@ Distantly Supervised NER with Partial Annotation Learning and Reinforcement Lear
 
 *Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*
 
+Reinforcement-based denoising of distantly supervised NER with partial annotation，EMNLP2019 [paper](https://www.aclweb.org/anthology/D19-6125.pdf)
+
+*Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*
+
 
 ## [关系抽取](#content)
 
