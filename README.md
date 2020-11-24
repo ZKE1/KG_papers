@@ -18,5 +18,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 ## [实体识别](#content)
 ### [远程监督](#content)
 Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018 [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
-*Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.* 
-*Institute of Artificial Intelligence School of Computer Science and Technology, Soochow University, China*
+
+*Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*
+
+
