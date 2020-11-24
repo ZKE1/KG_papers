@@ -7,6 +7,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 <table>
 <tr><td colspan="2"><a href="#实体识别">1. 实体识别</a></td></tr>
 <tr>
+    <td>&emsp;<a href="#基本模型">1.0 基本模型</a></td>
     <td>&emsp;<a href="#远程监督">1.1 远程监督</a></td>
     <td>&ensp;<a href="#词汇增强">1.2 词汇增强</a></td>
 </tr>
@@ -18,15 +19,19 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 </table>
 
 ## [实体识别](#content)
+### [基本模型](#content)
+
 ### [远程监督](#content)
-Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018 [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
+1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
 
-*Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*
+Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China
 
-Reinforcement-based denoising of distantly supervised NER with partial annotation，EMNLP2019 [paper](https://www.aclweb.org/anthology/D19-6125.pdf)
+1. **Reinforcement-based denoising of distantly supervised NER with partial annotation，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-6125.pdf)
 
 *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*
+
+### [词汇增强](#content)
 
 
 ## [关系抽取](#content)
