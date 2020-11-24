@@ -20,9 +20,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 
 ## [实体识别](#content)
 ### [基本模型](#content)
-1. **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions, EMNLP2017** [paper](https://arxiv.org/pdf/1702.02098.pdf)
-
-*Strubell E, Verga P, Belanger D, et al.*
+1. **Bidirectional LSTM-CRF Models for Sequence Tagging, 2015** [paper](https://arxiv.org/pdf/1508.01991.pdf)
+    *Huang, Zhiheng, Wei Xu, and Kai Yu.*
+2. **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions, EMNLP2017** [paper](https://arxiv.org/pdf/1702.02098.pdf)
+    *Strubell E, Verga P, Belanger D, et al.*
 ### [远程监督](#content)
 1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
